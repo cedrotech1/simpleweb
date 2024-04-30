@@ -1,0 +1,50 @@
+.title{
+    /* height: ; */
+    padding: 0.5cm;
+    width: 30%;
+    /* background-color: blue; */
+}
+
+.menu{
+    /* height: ; */
+    padding: 0.5cm;
+    width: 70%;
+    /* background-color: gray; */
+}
+.header{
+    display: flex;
+}
+ol li{
+    list-style: none;
+    font-size: 25px;
+    color: black;
+
+}
+ol{
+    display: flex;
+    gap: 1cm;
+}
+a{
+    text-decoration: none;
+}
+
+.image{
+      height: 10cm;
+      width: 50%;
+      /* background-color: gray; */
+}
+.text{
+    height: 10cm;
+    width: 50%;
+    /* background-color: rgb(172, 108, 108); */
+}
+.content{
+    display: flex;
+}
+.mypic{
+    width: 100%;
+}
+.myp{
+    text-align: justify;
+    margin: 0.5cm;
+}
